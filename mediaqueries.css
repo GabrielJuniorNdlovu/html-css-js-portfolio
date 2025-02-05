@@ -1,0 +1,28 @@
+@media screen and (max-width: 480px) {
+    nav {
+        display: none;
+    }
+
+    .nav-links {
+        display: none;
+    }
+
+    .hamburger-menu {
+        display: flex;
+    }
+
+    .hamburger-icon {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 24px;
+        width: 30;
+        cursor: pointer;
+    }
+
+    .hamburger-icon div {
+        width: 30px;
+        height: 3px;
+        background-color: black;
+    }
+  /* CSS for screens that are 480 pixels wide or less */}
