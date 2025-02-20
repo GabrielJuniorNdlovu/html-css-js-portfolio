@@ -1,3 +1,4 @@
+/*SCREEN SIZE AT 1400PX*/
 @media screen and (max-width: 1400px) {
     #profile {
         height: 83vh;
@@ -9,7 +10,7 @@
     }
    }
 
-
+/*SCREEN SIZE AT 1200PX*/
 @media screen and (max-width: 1200px) {
     #hamburger-nav {
         display: flex;
@@ -41,7 +42,7 @@
         margin-top: 0;
     }
    }
-
+/*SCREEN SIZE AT 600PX*/
    @media screen and (max-width: 600px) {
     #contact, footer {
         height: 40vh;
