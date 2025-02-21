@@ -155,6 +155,10 @@ section {
     display: flex;
 }
 
+.section__text__1 {
+    text-align: center;
+}
+
 /*PROFILE SECTION*/
 
 #profile {
@@ -164,6 +168,10 @@ section {
     height: 80vh;
 }
 
+.section__pi-container img {
+    height: 510px;
+    width: 510px;
+}
 .section__pic-container {
     display: flex;
     height: 400px;
