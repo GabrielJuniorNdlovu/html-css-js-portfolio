@@ -169,13 +169,15 @@ section {
 }
 
 .section__pi-container img {
-    height: 510px;
+    height: 450px;
     width: 510px;
+    border-radius: 100%;
+    border: rgb(53, 53, 53) 0.1rem solid;
 }
 .section__pic-container {
     display: flex;
     height: 400px;
-    width: 400px;
+    width: 450px;
     margin: auto 0;
 }
 
@@ -364,8 +366,8 @@ article .icon {
 
 .project-img {
     border-radius: 2rem;
-    width: 90%;
-    height: 90%;
+    width: 300px;
+    height: 250px;
 }
 
 .project-title {
